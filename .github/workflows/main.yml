@@ -1,4 +1,4 @@
-name: Helloworld concurrency: 
+name: Helloworld 
 
 on: [push]
 
